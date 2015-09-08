@@ -1,6 +1,6 @@
 /*multiline 
 comments*/
-//single line 
+//single line ; standard io
 
 #include <stdio.h>
 #include <string.h>

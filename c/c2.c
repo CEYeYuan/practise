@@ -1,4 +1,4 @@
-
+/*standard io continue*/
 #include <stdio.h>
 #include <string.h>
 
